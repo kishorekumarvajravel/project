@@ -4,7 +4,7 @@ v=Tk()
 v.title('calculator')
 v.configure(bg="#00ffAA")
 v.geometry("214x363")
-v.iconbitmap(r'D:\ca.ico')
+v.iconbitmap(r'D:\ca.ico') #location of a file 
 st=StringVar()
 
 # adding styles to the widget
